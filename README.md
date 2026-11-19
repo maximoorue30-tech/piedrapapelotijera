@@ -51,7 +51,7 @@ archivo_disco.png: contenido de src/historial_partidas.txt abierto en el editor.
 No incluyas capturas inventadas: ejecutá el programa y tomalas desde tu computadora.
 
 Documentación
-Informe académico: docs/InformeEEST1_LPR2026_ACT07_G03_[ApellidoNombre]_Informe_v1.0.0.pdf.
+Informe académico: docs/InformeEEST1_LPR2026_ACT07_G03_[OrueMaximo]_Informe_v1.0.0.pdf.
 Manual del programador y manual del usuario: carpeta docs/manuales/.
 Historial de cambios: docs/CHANGELOG.md.
 Repositorios remotos
